@@ -10,6 +10,9 @@ function Navbar() {
     <user>
       <div className='App'>
         <h1>Hello {user}</h1>
+        <form action=''>
+          <input type='text' name='' id='' />
+        </form>
       </div>
     </user>
   );
