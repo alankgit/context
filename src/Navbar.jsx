@@ -12,6 +12,7 @@ function Navbar() {
         <h1>Hello {user}</h1>
         <form action=''>
           <input type='text' name='' id='' />
+          <label htmlFor=''>Hello World</label>
         </form>
       </div>
     </user>
